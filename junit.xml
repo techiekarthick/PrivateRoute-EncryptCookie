@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="11" failures="0" time="1.754">
+  <testsuite name="Login component" errors="0" failures="0" skipped="0" timestamp="2020-09-16T12:05:54" time="0.707" tests="2">
+    <testcase classname="Login component Login button" name="Login component Login button" time="0.004">
+    </testcase>
+    <testcase classname="Login component Login input length" name="Login component Login input length" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="Sign component" errors="0" failures="0" skipped="0" timestamp="2020-09-16T12:05:54" time="0.862" tests="3">
+    <testcase classname="Sign component signUp button" name="Sign component signUp button" time="0.004">
+    </testcase>
+    <testcase classname="Sign component Signup input length" name="Sign component Signup input length" time="0">
+    </testcase>
+    <testcase classname="Sign component Username set in cookies" name="Sign component Username set in cookies" time="0.019">
+    </testcase>
+  </testsuite>
+  <testsuite name="App component" errors="0" failures="0" skipped="0" timestamp="2020-09-16T12:05:54" time="1.289" tests="6">
+    <testcase classname="App component checking the presence of Router" name="App component checking the presence of Router" time="0.001">
+    </testcase>
+    <testcase classname="App component checking the presence of PrivateRouter" name="App component checking the presence of PrivateRouter" time="0.001">
+    </testcase>
+    <testcase classname="App component Check the Route and Private Route Path" name="App component Check the Route and Private Route Path" time="0.01">
+    </testcase>
+    <testcase classname="App component checking the presence of BrowserRouter" name="App component checking the presence of BrowserRouter" time="0">
+    </testcase>
+    <testcase classname="App component Button onclick Check in Sign Up component" name="App component Button onclick Check in Sign Up component" time="0.018">
+    </testcase>
+    <testcase classname="App component notVerified path check" name="App component notVerified path check" time="0.022">
+    </testcase>
+  </testsuite>
+</testsuites>
